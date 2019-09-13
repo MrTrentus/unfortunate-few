@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Jaxx Ulaniir",
+        "race": "Aasimar (Protector)",
+        "class": "Bard",
+        "subclass": "College of the Swords"
+    },
+    {
+        "name": "Sylis Von Matterhorn",
+        "race": "Half-Elf",
+        "class": "Warlock",
+        "subclass": "The Great Old One"
+    },
+    {
+        "name": "Twang",
+        "race": "Kenku",
+        "class": "Fighter",
+        "subclass": "Battle Master"
+    },
+    {
+        "name": "Ervy",
+        "race": "Mountain Dwarf",
+        "class": "Paladin",
+        "subclass": "Oath of Devotion"
+    },
+    {
+        "name": "Sig",
+        "race": "Half-Elf",
+        "class": "Rogue",
+        "subclass": "Assassin"
+    },
+    {
+        "name": "Cassandra",
+        "race": "Drow",
+        "class": "Cleric",
+        "subclass": "Tempest"
+    }
+]

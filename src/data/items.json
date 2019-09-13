@@ -1,0 +1,703 @@
+[
+    {
+        "name": "Dwarven Thrower",
+        "type": "Magical",
+        "weaponCategory": "Martial - Warhammer",
+        "dmg1": "1d8",
+        "dmg2": "1d10",
+        "dmgType": "Bludgeoning",
+        "property": [
+            "Thrown",
+            "Versatile"
+        ],
+        "range": "20/60",
+        "rarity": "Very Rare",
+        "reqAttune": "by a Dwarf",
+        "description": [
+            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand."
+        ],
+        "bonus": "+3",
+        "url": "",
+        "owner": "Ervy"
+    },
+    {
+        "name": "Stalwart Belt of the Ferret",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Spiked Shield of Accuracy",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Vorpal Sword",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Sword of Duality",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Heavy Crossbow of War",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Twang"
+    },
+    {
+        "name": "Gloves of Cannon Wall",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Twang"
+    },
+    {
+        "name": "Cloak of Displacement",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Amulet of Health",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Sylis"
+    },
+    {
+        "name": "",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Ancient Dwarven Greatsword",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "+4",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Rocky",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Willbreaker",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Mountain Guard GreatAxe",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Ervy"
+    },
+    {
+        "name": "Blade of The Empire",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Ardent Enforcer",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Delilah",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Sig"
+    },
+    {
+        "name": "Dragon Scale Shield",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "none",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Ervy"
+    },
+    {
+        "name": "Canaith Mandolin, Instrument of The Bards",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "by a Bard",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Rod of the Pact Keeper",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Sylis"
+    },
+    {
+        "name": "Ring of Spell Turning",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Sylis"
+    },
+    {
+        "name": "Ring of The Ram",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "???"
+    },
+    {
+        "name": "Ring of Invisibility",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Sig"
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Cassandra"
+    },
+    {
+        "name": "Oathbow",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Twang"
+    },
+    {
+        "name": "Cloak of The Bat",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Twang"
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Cassandra"
+    },
+    {
+        "name": "Dwarven Plate",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Ervy"
+    },
+    {
+        "name": "Dragon Slayer",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Ervy"
+    },
+    {
+        "name": "Longsword +2",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": ""
+    },
+    {
+        "name": "Longbow +2",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Bag of Holding",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+    {
+        "name": "Bag of Holding",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Twang"
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "type": "",
+        "weaponCategory": "",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "",
+        "reqAttune": "",
+        "description": [
+            ""
+        ],
+        "bonus": "",
+        "url": "",
+        "owner": "Jaxx"
+    },
+]

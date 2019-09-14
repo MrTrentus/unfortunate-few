@@ -17,18 +17,18 @@
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand."
         ],
         "bonus": "+3",
-        "url": "",
+        "url": "https://5e.tools/items.html#dwarven%20thrower_dmg",
         "owner": "Ervy"
     },
     {
         "name": "Stalwart Belt of the Ferret",
-        "type": "",
-        "weaponCategory": "",
+        "type": "Magical",
+        "weaponCategory": "Accessory - Belt",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
@@ -36,23 +36,23 @@
         "description": [
             ""
         ],
-        "bonus": "",
+        "bonus": "+1 DEX, +10 HP",
         "url": "",
         "owner": "Jaxx"
     },
     {
         "name": "Spiked Shield of Accuracy",
-        "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "type": "Magical",
+        "weaponCategory": "Armor - Shield",
+        "dmg1": "1d8",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Piercing",
         "property": [
-            ""
+            "Homebrew"
         ],
-        "range": "",
+        "range": "Melee",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -62,57 +62,57 @@
     },
     {
         "name": "Vorpal Sword",
-        "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "type": "Magical",
+        "weaponCategory": "Martial - Longsword",
+        "dmg1": "1d8",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Slashing",
         "property": [
             ""
         ],
-        "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "range": "Melee",
+        "rarity": "Legendary",
+        "reqAttune": "required",
         "description": [
             ""
         ],
-        "bonus": "",
-        "url": "",
+        "bonus": "+3",
+        "url": "https://5e.tools/items.html#vorpal%20sword_dmg",
         "owner": "Jaxx"
     },
     {
         "name": "Sword of Duality",
-        "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
-        "dmg2": "",
-        "dmgType": "",
+        "type": "Magical",
+        "weaponCategory": "Martial - Shortsword",
+        "dmg1": "1d4",
+        "dmg2": "1d4",
+        "dmgType": "Necrotic / Radiant",
         "property": [
-            ""
+            "Homebrew"
         ],
-        "range": "",
+        "range": "Melee",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
-        "bonus": "",
+        "bonus": "+3",
         "url": "",
         "owner": "Jaxx"
     },
     {
         "name": "Heavy Crossbow of War",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Heavy Crossbow",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -123,16 +123,16 @@
     {
         "name": "Gloves of Cannon Wall",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Gloves",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -143,7 +143,7 @@
     {
         "name": "Cloak of Displacement",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Cloak",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -151,19 +151,19 @@
             ""
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "rarity": "Rare",
+        "reqAttune": "required",
         "description": [
             ""
         ],
         "bonus": "",
-        "url": "",
-        "owner": ""
+        "url": "https://5e.tools/items.html#cloak%20of%20displacement_dmg",
+        "owner": "Sig"
     },
     {
         "name": "Periapt of Wound Closure",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Necklace",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -172,18 +172,18 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#periapt%20of%20wound%20closure_dmg",
         "owner": ""
     },
     {
         "name": "Amulet of Health",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Necklace",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -192,47 +192,27 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
-        "bonus": "",
-        "url": "",
+        "bonus": "19 CON",
+        "url": "https://5e.tools/items.html#amulet%20of%20health_dmg",
         "owner": "Sylis"
-    },
-    {
-        "name": "",
-        "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
-        "dmg2": "",
-        "dmgType": "",
-        "property": [
-            ""
-        ],
-        "range": "",
-        "rarity": "",
-        "reqAttune": "",
-        "description": [
-            ""
-        ],
-        "bonus": "",
-        "url": "",
-        "owner": ""
     },
     {
         "name": "Ancient Dwarven Greatsword",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Greatsword",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -243,22 +223,22 @@
     {
         "name": "Rocky",
         "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "weaponCategory": "Martial - Flail",
+        "dmg1": "1d10",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
-        "bonus": "",
+        "bonus": "+2",
         "url": "",
-        "owner": ""
+        "owner": "Simon"
     },
     {
         "name": "Willbreaker",
@@ -268,11 +248,11 @@
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -283,16 +263,17 @@
     {
         "name": "Mountain Guard GreatAxe",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Greataxe",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Sentient,",
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -303,12 +284,12 @@
     {
         "name": "Blade of The Empire",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Shortsword",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
@@ -323,12 +304,12 @@
     {
         "name": "Ardent Enforcer",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Warhammer",
         "dmg1": "",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Fire",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
@@ -348,7 +329,7 @@
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
@@ -368,7 +349,7 @@
         "dmg2": "",
         "dmgType": "",
         "property": [
-            ""
+            "Homebrew"
         ],
         "range": "",
         "rarity": "",
@@ -392,7 +373,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "by a Bard",
+        "reqAttune": "required by a Bard",
         "description": [
             ""
         ],
@@ -403,7 +384,7 @@
     {
         "name": "Rod of the Pact Keeper",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Rod",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -411,19 +392,19 @@
             ""
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "rarity": "Very Rare",
+        "reqAttune": "required by a Warlock",
         "description": [
             ""
         ],
-        "bonus": "",
+        "bonus": "+3",
         "url": "",
         "owner": "Sylis"
     },
     {
         "name": "Ring of Spell Turning",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Ring",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -432,7 +413,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -452,7 +433,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -472,7 +453,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -492,7 +473,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -512,7 +493,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -532,7 +513,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -551,8 +532,8 @@
             ""
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "rarity": "Legendary",
+        "reqAttune": "required",
         "description": [
             ""
         ],
@@ -572,7 +553,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -583,7 +564,7 @@
     {
         "name": "Dragon Slayer",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Longsword",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -592,7 +573,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -603,7 +584,7 @@
     {
         "name": "Longsword +2",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Martial - Longsword",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -612,7 +593,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -623,14 +604,16 @@
     {
         "name": "Longbow +2",
         "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "weaponCategory": "Martial - Longbow",
+        "dmg1": "1d8",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Piercing",
         "property": [
-            ""
+            "Ranged,",
+            "Heavy,",
+            "Two-Handed"
         ],
-        "range": "",
+        "range": "150/600",
         "rarity": "",
         "reqAttune": "",
         "description": [
@@ -643,7 +626,7 @@
     {
         "name": "Bag of Holding",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Bag",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -652,7 +635,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -663,7 +646,7 @@
     {
         "name": "Bag of Holding",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Bag",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -672,7 +655,7 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
@@ -692,12 +675,12 @@
         ],
         "range": "",
         "rarity": "",
-        "reqAttune": "",
+        "reqAttune": "none",
         "description": [
             ""
         ],
         "bonus": "",
         "url": "",
         "owner": "Jaxx"
-    },
+    }
 ]

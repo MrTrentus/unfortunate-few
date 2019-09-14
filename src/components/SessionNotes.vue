@@ -1,5 +1,5 @@
 <template>
-    
+    <div><p class="text-center">Session View</p></div>
 </template>
 
 <script>

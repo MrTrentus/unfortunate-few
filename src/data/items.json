@@ -22,7 +22,7 @@
     },
     {
         "name": "Stalwart Belt of the Ferret",
-        "type": "Magical",
+        "type": "",
         "weaponCategory": "Accessory - Belt",
         "dmg1": "",
         "dmg2": "",
@@ -31,10 +31,10 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "rarity": "Rare",
+        "reqAttune": "None",
         "description": [
-            ""
+            "While wearing this belt, you gain +1 Dexterity and +10 to your maximum HP."
         ],
         "bonus": "+1 DEX, +10 HP",
         "url": "",
@@ -51,10 +51,10 @@
             "Homebrew"
         ],
         "range": "Melee",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
-            ""
+            "While wielding this shield you gain +1 to all attack rolls made. In addition, if another creature makes a melee attack towards you, and misses, you may roll 1d8 (Piercing) damage to inflict to them."
         ],
         "bonus": "",
         "url": "",
@@ -74,7 +74,8 @@
         "rarity": "Legendary",
         "reqAttune": "required",
         "description": [
-            ""
+            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.",
+            "When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit."
         ],
         "bonus": "+3",
         "url": "https://5e.tools/items.html#vorpal%20sword_dmg",
@@ -91,10 +92,11 @@
             "Homebrew"
         ],
         "range": "Melee",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "Streamers of Light: When you speak a command word, you may cause the sword to shine brightly. This creates 15ft of bright light and 30 further feet of dim light. May not be used with Blade of Darkness.",
+            "Blade of Darkness:  The blade is hard to discern in dark or dim light. When in dark or dim light, you gain +3 bonus to your attack. May not be used with Streamers of Light."
         ],
         "bonus": "+3",
         "url": "",
@@ -104,19 +106,23 @@
         "name": "Heavy Crossbow of War",
         "type": "",
         "weaponCategory": "Martial - Heavy Crossbow",
-        "dmg1": "",
+        "dmg1": "1d10",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Piercing",
         "property": [
-            "Homebrew"
+            "Homebrew",
+            "Heavy",
+            "Loading",
+            "Two-Handed"
         ],
-        "range": "",
-        "rarity": "",
-        "reqAttune": "required",
+        "range": "100/400 ft",
+        "rarity": "Unknown",
+        "reqAttune": "none",
         "description": [
-            ""
+            "You can a +3 bonus to attack and damage rolls with this weapon.",
+            "As a free action, before you attack, you can choose to 'expend' one of the magical points of this item. Effectively making it +2 after the first use, +1 after the second, etc. If you choose to do so you gain advantage on that attack. All expended charges recharge daily."
         ],
-        "bonus": "",
+        "bonus": "+3",
         "url": "",
         "owner": "Twang"
     },
@@ -131,10 +137,10 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "required",
+        "rarity": "Unknown",
+        "reqAttune": "none",
         "description": [
-            ""
+            "While wearing these gloves, you may choose to succeed on a constituion saving throw where you would have failed one. You can use this effect once per day."
         ],
         "bonus": "",
         "url": "",
@@ -154,7 +160,7 @@
         "rarity": "Rare",
         "reqAttune": "required",
         "description": [
-            ""
+            "While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move."
         ],
         "bonus": "",
         "url": "https://5e.tools/items.html#cloak%20of%20displacement_dmg",
@@ -171,10 +177,10 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores."
         ],
         "bonus": "",
         "url": "https://5e.tools/items.html#periapt%20of%20wound%20closure_dmg",
@@ -191,10 +197,10 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution score is already 19 or higher without it."
         ],
         "bonus": "19 CON",
         "url": "https://5e.tools/items.html#amulet%20of%20health_dmg",
@@ -211,7 +217,7 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
             ""
@@ -231,14 +237,14 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "Twice per long rest, you may use an action to slam down the rock-end of this flail onto a solid surface. A 20 ft cone of force emits in front of you.  All creatures within the cone must maxe a DC 17 Dexterity saving through or take 2d10 Force Damage and be knocked prone. On a successful save, the creatures take half damage and are not knocked prone. "
         ],
         "bonus": "+2",
         "url": "",
-        "owner": "Simon"
+        "owner": ""
     },
     {
         "name": "Willbreaker",
@@ -250,11 +256,11 @@
         "property": [
             "Homebrew"
         ],
-        "range": "",
-        "rarity": "",
+        "range": "Melee",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "Upon a Critical Hit with this weapon, the air around the user becomes fierce and loud with the sound of battle cries from the previous owners. Target must make a Wisdom Saving Throw or become frightened."
         ],
         "bonus": "",
         "url": "",
@@ -269,15 +275,18 @@
         "dmgType": "",
         "property": [
             "Sentient,",
-            "Homebrew"
+            "Homebrew",
+            "Heavy",
+            "Two-Handed"
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "required",
         "description": [
-            ""
+            "Dwarven Forged: You gain a +2 bonus to attack and damage rolls made with this weapon. ",
+            "Last Line of Defense: As an action you can slam the end of the handle of this axe on the floor causing a wave of gold energy to ripple out around you. For one minute all creatures of your choice in a 30ft raidus around you become immunage ot being frightened. They also gain 10 temporary hit points at the start of each of their turns. When the spell ends, all the creates lose any remaining temporary hit points. You can use this feature once per day."
         ],
-        "bonus": "",
+        "bonus": "+2",
         "url": "",
         "owner": "Ervy"
     },
@@ -292,12 +301,13 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Common",
         "reqAttune": "",
         "description": [
-            ""
+            "Military Precision: You gain a +1 bonus to attack and damge rolls made with this weapon.",
+            "Lawkeeper: If you are of a Lawful alignment you deal and extra 1d6 slashing damage to a creature with a Chaotic alignment on a successful hit."
         ],
-        "bonus": "",
+        "bonus": "+1",
         "url": "",
         "owner": ""
     },
@@ -305,46 +315,49 @@
         "name": "Ardent Enforcer",
         "type": "",
         "weaponCategory": "Martial - Warhammer",
-        "dmg1": "",
-        "dmg2": "",
+        "dmg1": "1d8",
+        "dmg2": "1d10",
         "dmgType": "Fire",
         "property": [
-            "Homebrew"
+            "Homebrew",
+            "Versatile"
         ],
         "range": "",
-        "rarity": "",
-        "reqAttune": "",
+        "rarity": "Unknown",
+        "reqAttune": "required",
         "description": [
-            ""
+            "Infernal Metal: You gain +3 to your attack and damage rolls with this weapon.",
+            "Mark of the Fallen: As a bonus action when you make a successful attack against a creature, you can choose to mark it with an infernal rune.  The creatures has to make a DC 15 Wisdom Saving Throw. On a failure, the create is marked. On a success nothing happens.  When marked, the creature has vulnerability to fire and necrotic damage for one minute. If a creature has immunity, they now have resistance. If the creature is resistant, it loses it's resistance. You can use this feature twice per day."
         ],
-        "bonus": "",
+        "bonus": "+3",
         "url": "",
         "owner": ""
     },
     {
         "name": "Delilah",
         "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "weaponCategory": "Ranged - Light Crossbow",
+        "dmg1": "1d8",
         "dmg2": "",
         "dmgType": "",
         "property": [
             "Homebrew"
         ],
-        "range": "",
-        "rarity": "",
+        "range": "80/320",
+        "rarity": "Very Rare",
         "reqAttune": "",
         "description": [
-            ""
+            "My Dearest Delilah: You can a +2 bonus to attack and damge rolls with this weapon.",
+            "Heartseker: Before you attack a creature you can whisper a command word that magically enchants the next bolt you fire. You make a ranged attack roll for this bolt with advantage. The bolt files around corners and ingores all cover. You can do this once per day."
         ],
-        "bonus": "",
+        "bonus": "+2",
         "url": "",
         "owner": "Sig"
     },
     {
         "name": "Dragon Scale Shield",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Armor - Shield",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -352,10 +365,10 @@
             "Homebrew"
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
-            ""
+            "While wearing this shield you gain +2 AC, bringing the total bonus for this shield to +4 AC.  As a reaction, you can gain immunity to Acid Damage. Can be used ?? number of times a day."
         ],
         "bonus": "",
         "url": "",
@@ -364,7 +377,7 @@
     {
         "name": "Canaith Mandolin, Instrument of The Bards",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Instrument - Mandolin",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -372,13 +385,13 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Rare",
         "reqAttune": "required by a Bard",
         "description": [
-            ""
+            "This thing does too much to put here... go read the 5etools entry."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#instrument%20of%20the%20bards%2c%20canaith%20mandolin_dmg",
         "owner": "Jaxx"
     },
     {
@@ -395,7 +408,8 @@
         "rarity": "Very Rare",
         "reqAttune": "required by a Warlock",
         "description": [
-            ""
+            "While holding this rod, you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your warlock spells.",
+            "In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest."
         ],
         "bonus": "+3",
         "url": "",
@@ -412,19 +426,19 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Legendary",
         "reqAttune": "required",
         "description": [
-            ""
+            "While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#ring%20of%20spell%20turning_dmg",
         "owner": "Sylis"
     },
     {
         "name": "Ring of The Ram",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Ring",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -432,19 +446,20 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Rare",
         "reqAttune": "required",
         "description": [
-            ""
+            "This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to attack one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes 2d10 force damage and is pushed 5 feet away from you.",
+            "Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend."
         ],
         "bonus": "",
-        "url": "",
-        "owner": "???"
+        "url": "https://5e.tools/items.html#ring%20of%20the%20ram_dmg",
+        "owner": ""
     },
     {
         "name": "Ring of Invisibility",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Ring",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -452,10 +467,10 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Legendary",
         "reqAttune": "required",
         "description": [
-            ""
+            "While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again."
         ],
         "bonus": "",
         "url": "",
@@ -472,33 +487,33 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Uncommon",
         "reqAttune": "none",
         "description": [
-            ""
+            "Lengthy description... go read 5etools"
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#decanter%20of%20endless%20water_dmg",
         "owner": "Cassandra"
     },
     {
         "name": "Oathbow",
         "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "weaponCategory": "Ranged - Longbow",
+        "dmg1": "1d8",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Piercing",
         "property": [
             ""
         ],
-        "range": "",
-        "rarity": "",
+        "range": "150/600",
+        "rarity": "Very Rare",
         "reqAttune": "required",
         "description": [
-            ""
+            "Lengthy description... go read 5etools"
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#oathbow_dmg",
         "owner": "Twang"
     },
     {
@@ -512,19 +527,20 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Rare",
         "reqAttune": "required",
         "description": [
-            ""
+            "While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak's edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.",
+            "While wearing the cloak in an area of dim light or darkness, you can use your action to cast polymorph on yourself, transforming into a bat. While you are in the form of the bat, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#cloak%20of%20the%20bat_dmg",
         "owner": "Twang"
     },
     {
         "name": "Plate Armor of Etherealness",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Armor - Plate",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -535,16 +551,17 @@
         "rarity": "Legendary",
         "reqAttune": "required",
         "description": [
-            ""
+            "While you're wearing this armor, you can speak its command word as an action to gain the effect of the etherealness spell, which lasts for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.",
+            "The wearer has disadvantage on Stealth (Dexterity) checks. If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#plate%20armor%20of%20etherealness_dmg",
         "owner": "Cassandra"
     },
     {
         "name": "Dwarven Plate",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Armor - Plate",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -552,32 +569,34 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Very Rare",
         "reqAttune": "none",
         "description": [
-            ""
+            "While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.",
+            "The wearer has disadvantage on Stealth (Dexterity) checks. If the wearer has a Strength score lower than 15, their speed is reduced by 10 feet."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#dwarven%20plate_dmg",
         "owner": "Ervy"
     },
     {
         "name": "Dragon Slayer",
         "type": "",
         "weaponCategory": "Martial - Longsword",
-        "dmg1": "",
-        "dmg2": "",
-        "dmgType": "",
+        "dmg1": "1d8",
+        "dmg2": "1d10",
+        "dmgType": "Slashing",
         "property": [
-            ""
+            "Versatile"
         ],
-        "range": "",
-        "rarity": "",
+        "range": "Melee",
+        "rarity": "Rare",
         "reqAttune": "none",
         "description": [
-            ""
+            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
+            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, 'dragon' refers to any creature with the dragon type, including dragon turtles and wyverns."
         ],
-        "bonus": "",
+        "bonus": "+1",
         "url": "",
         "owner": "Ervy"
     },
@@ -585,19 +604,19 @@
         "name": "Longsword +2",
         "type": "",
         "weaponCategory": "Martial - Longsword",
-        "dmg1": "",
-        "dmg2": "",
-        "dmgType": "",
+        "dmg1": "1d8",
+        "dmg2": "1d10",
+        "dmgType": "Slashing",
         "property": [
-            ""
+            "Versatile"
         ],
-        "range": "",
-        "rarity": "",
+        "range": "Melee",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
-            ""
+            "You gain a +2 bonus to attacks and damage with this weapon."
         ],
-        "bonus": "",
+        "bonus": "+2",
         "url": "",
         "owner": ""
     },
@@ -614,12 +633,12 @@
             "Two-Handed"
         ],
         "range": "150/600",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "",
         "description": [
-            ""
+            "You gain a +2 bonus to attacks and damage with this weapon."
         ],
-        "bonus": "",
+        "bonus": "+2",
         "url": "",
         "owner": "Jaxx"
     },
@@ -634,13 +653,13 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
-            ""
+            "Basically... it carries lots of stuff."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#bag%20of%20holding_dmg",
         "owner": "Jaxx"
     },
     {
@@ -654,13 +673,13 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
-            ""
+            "In Twang's case, it carries lots of drugs."
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#bag%20of%20holding_dmg",
         "owner": "Twang"
     },
     {
@@ -674,13 +693,39 @@
             ""
         ],
         "range": "",
-        "rarity": "",
+        "rarity": "Unknown",
         "reqAttune": "none",
         "description": [
             ""
         ],
         "bonus": "",
-        "url": "",
+        "url": "https://5e.tools/items.html#dust%20of%20sneezing%20and%20choking_dmg",
         "owner": "Jaxx"
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "type": "",
+        "weaponCategory": "Accessory - Belt",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "Rare",
+        "reqAttune": "required",
+        "description": [
+            "Your Constitution score increases by 2, to a maximum of 20.",
+            "You have advantage on Charisma (Persuasion) checks made to interact with dwarves.",
+            "In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.",
+            "You have advantage on saving throws against poison, and you have resistance against poison damage.",
+            "You have darkvision out to a range of 60 feet.",
+            "You can speak, read, and write Dwarvish."
+
+        ],
+        "bonus": "",
+        "url": "https://5e.tools/items.html#belt%20of%20dwarvenkind_dmg",
+        "owner": "Twang"
     }
 ]

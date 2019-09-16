@@ -210,21 +210,23 @@
         "name": "Ancient Dwarven Greatsword",
         "type": "",
         "weaponCategory": "Martial - Greatsword",
-        "dmg1": "",
+        "dmg1": "2d6",
         "dmg2": "",
-        "dmgType": "",
+        "dmgType": "Slashing",
         "property": [
-            "Homebrew"
+            "Homebrew",
+            "Two-Handed",
+            "Heavy"
         ],
         "range": "",
-        "rarity": "Unknown",
+        "rarity": "Artifact",
         "reqAttune": "required",
         "description": [
             ""
         ],
         "bonus": "+4",
         "url": "",
-        "owner": ""
+        "owner": "Ervy"
     },
     {
         "name": "Rocky",
@@ -249,12 +251,14 @@
     {
         "name": "Willbreaker",
         "type": "",
-        "weaponCategory": "",
-        "dmg1": "",
+        "weaponCategory": "Martial - Maul",
+        "dmg1": "2d6",
         "dmg2": "",
         "dmgType": "",
         "property": [
-            "Homebrew"
+            "Homebrew",
+            "Heavy",
+            "Two-Handed"
         ],
         "range": "Melee",
         "rarity": "Unknown",
@@ -274,7 +278,7 @@
         "dmg2": "",
         "dmgType": "",
         "property": [
-            "Sentient,",
+            "Sentient",
             "Homebrew",
             "Heavy",
             "Two-Handed"
@@ -479,7 +483,7 @@
     {
         "name": "Decanter of Endless Water",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Wonderous Item",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -519,7 +523,7 @@
     {
         "name": "Cloak of The Bat",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Accessory - Cloak",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -685,7 +689,7 @@
     {
         "name": "Dust of Sneezing and Choking",
         "type": "",
-        "weaponCategory": "",
+        "weaponCategory": "Potion",
         "dmg1": "",
         "dmg2": "",
         "dmgType": "",
@@ -727,5 +731,25 @@
         "bonus": "",
         "url": "https://5e.tools/items.html#belt%20of%20dwarvenkind_dmg",
         "owner": "Twang"
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "type": "",
+        "weaponCategory": "Accessory - Gloves",
+        "dmg1": "",
+        "dmg2": "",
+        "dmgType": "",
+        "property": [
+            ""
+        ],
+        "range": "",
+        "rarity": "Uncommon",
+        "reqAttune": "required",
+        "description": [
+            "Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher without them."
+        ],
+        "bonus": "19 STR",
+        "url": "https://5e.tools/items.html#gauntlets%20of%20ogre%20power_dmg",
+        "owner": ""
     }
 ]

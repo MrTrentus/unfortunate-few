@@ -10,7 +10,7 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
-    { path: '/', component: App},
+    { path: '/', component: Characters},
     { path: '/characters', component: Characters},
     { path: '/character/:name', component: Character, name: "character", props: true },
     { path: '/items', component: Items},
